@@ -1,0 +1,94 @@
+/****** Global Styles ******/
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #5E5D5E;
+
+}
+
+.content-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+
+
+
+
+
+
+/****** Header Styles ******/
+.homepage-hero {
+    background: url('../img/full-background.png'), #f9efef;
+    background-size: cover;
+    background-position: center;
+    width: 800px;
+}
+
+
+header h1 {
+    float: left;
+    width: 300px;
+    font-family: 'Lora', serif;
+    color: #7B7E54;
+    size: 30px;
+    padding: 65px 0px 65px 25px;
+}
+
+header nav {
+    float: right;
+    width: 800px;
+    text-align: right;
+    padding: 75px 25px 75px 0px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    color: #727172;
+    font-size: 18px;
+    padding-left: 80px;
+
+}
+
+header h2 {
+    width: 1000px;
+    clear: both;
+    font-family: 'Lora', serif;
+    font-size: 72px;
+    line-height: 80px;
+    color: #817F80;
+    padding: 20px 0px 20px 25px;
+
+}
+
+
+
+
+
+
+
+/****** About Styles ******/
+
+
+
+
+
+
+
+
+
+/****** Skill Styles ******/
+
+
+
+
+
+
+
+
+
+/****** Contact Styles ******/
